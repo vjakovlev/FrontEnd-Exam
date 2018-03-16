@@ -1,0 +1,25 @@
+#formContainer {
+	margin-top: 30px;
+
+}
+
+.form{
+	display: inline-flex;
+	border: 1px solid black;
+	padding: 7px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.form label {
+	margin-left: 10px;
+}
+
+#insert {
+	margin-left: 5px;
+}
+
+#addReview {
+	height: 30px;
+	width: 200px;
+}
